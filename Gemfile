@@ -56,3 +56,4 @@ group :production do
   gem 'puma'
 end
 
+gem 'rspec-rails', group: [ :test ]
